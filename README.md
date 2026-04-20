@@ -1,1 +1,1 @@
-This is a pinterest clone app created using flutter (Riverpod State Management ).
+This is a pinterest clone app created using flutter 
